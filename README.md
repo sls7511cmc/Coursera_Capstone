@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Final project to predict the severity of an accident as a result of inclement weather conditions
+Final project to predict the best neighhorhoods to relocate to near a new job based location and other amenities.
